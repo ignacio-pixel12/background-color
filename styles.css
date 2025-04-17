@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(150, 230, 242);
+    font: 1em sans-serif;
+}
+
+h1 {
+    border: 4px double rgb(255, 0, 0);
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+div{
+    border: 4px double rgb(255, 0, 0);
+    padding: 10px;
+    background-color: aliceblue;
+    
+}
+
+
+
+
