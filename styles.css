@@ -17,6 +17,13 @@ div{
     
 }
 
+h3{
+    border: 4px double rgb(255, 0, 0);
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(239, 86, 86);
+}
+
 
 
 
